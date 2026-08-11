@@ -1,0 +1,4 @@
+interface:
+  display_name: "/opc-launch-ip-check"
+  short_description: "识别 OPC 上线前资产、知识产权与合规风险并准备材料"
+  default_prompt: "Use $opc-launch-ip-check to identify OPC launch, ownership, IP, and compliance risks and prepare the next materials."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "/ai-model-cost-selector"
+  short_description: "动态核验官方模型价格并诊断 Token 成本、路由与降级方案"
+  default_prompt: "Use $ai-model-cost-selector to verify current official model pricing and diagnose monthly cost and routing options for this workload."

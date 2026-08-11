@@ -1,0 +1,4 @@
+interface:
+  display_name: "/ai-product-ux-review"
+  short_description: "从审美、交互和 AI 产品心理学完成一次完整产品体检"
+  default_prompt: "Use $ai-product-ux-review to inspect visual hierarchy, interaction states, and user psychology in this AI product."

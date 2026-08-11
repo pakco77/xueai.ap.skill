@@ -1,0 +1,4 @@
+interface:
+  display_name: "/vibe-coding-rules-generator"
+  short_description: "按项目阶段与风险生成最小可用的开发规则、权限和验证边界"
+  default_prompt: "Use $vibe-coding-rules-generator to generate the smallest project-specific coding rules from the supplied risks and permissions."

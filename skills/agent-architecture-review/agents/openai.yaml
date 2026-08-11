@@ -1,0 +1,4 @@
+interface:
+  display_name: "/agent-architecture-review"
+  short_description: "评审 Agent 与 AI 产品架构的上下文、工具、记忆、权限和恢复"
+  default_prompt: "Use $agent-architecture-review to review this Agent or AI product architecture and return the smallest evidence-backed repair."
